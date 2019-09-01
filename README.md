@@ -15,7 +15,7 @@ Application's front-end is built around Swing and includes:
 
 Application's back-end is a MySQL database accessible via JDBC. You can find the compiled application in **dist** folder. Here is the general look of the application:
 
-![](https://github.com/tograh/testrepository/3DTest.png)
+![](https://raw.githubusercontent.com/yuryshukhrov/mysql-db-gui-app/master/src/images/mysql_db_gui_app.png)
 
 All features are described in the documentation that is available under "Help".
 
@@ -30,5 +30,4 @@ All features are described in the documentation that is available under "Help".
 
 Copyright © 2019, [Yury Shukhrov](https://github.com/yuryshukhrov).
 Released under the [MIT License](LICENSE).
-
 
